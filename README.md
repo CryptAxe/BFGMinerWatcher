@@ -1,0 +1,2 @@
+BFGMinerWatcher
+===============
